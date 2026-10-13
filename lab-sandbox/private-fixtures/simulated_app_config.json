@@ -1,0 +1,9 @@
+{
+  "system": "Lab Simulation Environment",
+  "environment": "isolated-sandbox",
+  "simulated_internal_service": {
+    "api_key": "simulated_internal_service_key_998877",
+    "internal_url": "http://internal-service.local:8080"
+  },
+  "notice": "Tệp cấu hình nội bộ giả lập dùng để minh họa tác động rò rỉ thông tin qua Path Traversal."
+}

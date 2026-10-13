@@ -1,0 +1,3 @@
+Xin chào! Đây là tệp tin công khai hợp lệ trong thư mục /uploads/.
+Người dùng và hệ thống được phép truy cập và tải tệp tin này bình thường.
+Mã tài liệu: DOC-PUBLIC-001

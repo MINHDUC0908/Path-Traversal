@@ -1,0 +1,5 @@
+# Cấu hình riêng cho profile 'lab'
+# Chỉ khi kích hoạt profile này thì endpoint vulnerable mới được phép khởi chạy
+lab:
+  security:
+    allow-vulnerable-endpoint: true

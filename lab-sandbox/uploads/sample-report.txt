@@ -1,0 +1,4 @@
+BÁO CÁO KINH DOANH MẪU (DỮ LIỆU CÔNG KHAI)
+Tệp: sample-report.txt
+Mục đích: Kiểm thử tải tài liệu có định dạng tên file thông thường.
+Trạng thái: Cho phép truy cập.

@@ -1,0 +1,21 @@
+server:
+  port: 8080
+  error:
+    include-message: never
+    include-binding-errors: never
+    include-stacktrace: never
+    include-exception: false
+
+spring:
+  application:
+    name: path-traversal-lab
+  profiles:
+    active: lab
+
+# Cấu hình đường dẫn lưu trữ tệp của phòng Lab
+lab:
+  storage:
+    # Thư mục gốc an toàn được phép đọc tệp
+    base-dir: lab-sandbox/uploads
+    # Thư mục sandbox bao quanh (dùng làm giới hạn cứng cho phòng lab để không bao giờ chạm vào OS)
+    sandbox-root: lab-sandbox
